@@ -10,6 +10,7 @@
 // Then, update mostCanReach if i + nums[i] is bigger, and update
 // Return jumps
 
+// Time: O(n), Space: O(1)
 public class Solution {
     public static void main(String[] args) {
         int [] nums = new int[]{2,3,1,1,4};
